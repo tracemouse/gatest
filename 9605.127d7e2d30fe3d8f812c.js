@@ -1,0 +1,1 @@
+(self.webpackChunkgatest=self.webpackChunkgatest||[]).push([[9605],{9605:(s,t,o)=>{"use strict";o.r(t),o.d(t,{ion_text:()=>l});var r=o(2322),c=o(7505),e=o(4843);const l=class{constructor(s){(0,r.r)(this,s)}render(){const s=(0,c.b)(this);return(0,r.h)(r.H,{class:(0,e.c)(this.color,{[s]:!0})},(0,r.h)("slot",null))}};l.style=":host(.ion-color){color:var(--ion-color-base)}"}}]);
